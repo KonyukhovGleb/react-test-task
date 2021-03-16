@@ -1,0 +1,20 @@
+.table {
+    
+}
+
+.record-list {
+  
+}
+
+.button-bar {}
+
+.name-space {
+    padding: 5px;
+    font-weight: bold;
+}
+.name-space span {
+    text-align: center;
+    padding: 5px;
+    width: 33%;
+    font-size: 30px;
+}
